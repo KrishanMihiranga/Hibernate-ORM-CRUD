@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hibernate-ORM-CRUD.iml" filepath="$PROJECT_DIR$/.idea/Hibernate-ORM-CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/Many-to-Many/Many-to-Many.iml" filepath="$PROJECT_DIR$/Part2/Many-to-Many/Many-to-Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/One-to-Many/One-to-Many.iml" filepath="$PROJECT_DIR$/Part2/One-to-Many/One-to-Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/One-to-One/One-to-One.iml" filepath="$PROJECT_DIR$/Part2/One-to-One/One-to-One.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1/Part1.iml" filepath="$PROJECT_DIR$/Part1/Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/Part2.iml" filepath="$PROJECT_DIR$/Part2/Part2.iml" />
     </modules>
   </component>
 </project>
